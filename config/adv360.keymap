@@ -40,7 +40,7 @@
 
         default_layer {
             bindings = <
-        &kp GRAVE  &mt LA(N1) N1       &mt LA(N2) N2   &mt LA(N3) N3       &mt LA(N4) N4  &mt LA(N5) N5                &none                                                                                      &mp 1   &kp N6               &kp N7          &kp N8               &kp N9    &mt LA(N0) N0            &kp BACKSPACE
+        &kp GRAVE  &mt LA(N1) N1       &mt LA(N2) N2   &mt LA(N3) N3       &mt LA(N4) N4  &mt LA(N5) N5                &none                                                                                      &mo 1   &kp N6               &kp N7          &kp N8               &kp N9    &mt LA(N0) N0            &kp BACKSPACE
           &kp TAB          &kp Q               &kp W           &kp E               &kp R        &lt 5 T                &none                                                                                      &none  &lt 5 Y                &kp U           &kp I                &kp O            &kp P                 &kp BSLH
  &mt LCTRL ESCAPE        &lt 2 A  &mt LEFT_CONTROL S  &mt LEFT_ALT D  &mt LEFT_COMMAND F        &lt 2 G                &none                   &kp LCTRL  &kp LALT                   &kp LGUI      &kp RCTRL      &none  &lt 3 H  &mt RIGHT_COMMAND J  &mt LEFT_ALT K  &mt RIGHT_CONTROL L  &lt 4 SEMICOLON  &mt RIGHT_CONTROL ENTER
         &kp LSHFT          &kp Z               &kp X           &kp C               &kp V          &kp B                                                   &kp HOME                  &kp PG_UP                              &kp N                &kp M       &kp COMMA              &kp DOT         &kp FSLH                &kp RSHFT
